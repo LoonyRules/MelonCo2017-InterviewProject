@@ -15,5 +15,10 @@ Basic IntelliJ Setup Guide:
 * Click the "Crates" project and build.
 * Copy/Move the "Crates.jar" found in the "targets" into your "/plugins" folder.
 
+In-game Guide:
+* Find or place down an EnderChest
+* Right-Click the EnderChest with an Iron Hoe in your hand
+* Wait until the Pointer stops to see what you would've won.
+
 What I need to improve on (feedback):
 * TODO
