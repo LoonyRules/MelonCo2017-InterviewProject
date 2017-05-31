@@ -15,5 +15,5 @@ Basic IntelliJ Setup Guide:
 * Click the "Crates" project and build.
 * Copy/Move the "Crates.jar" found in the "targets" into your "/plugins" folder.
 
-What I need to improve on:
+What I need to improve on (feedback):
 * TODO
