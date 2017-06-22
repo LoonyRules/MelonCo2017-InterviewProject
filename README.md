@@ -21,4 +21,4 @@ In-game Guide:
 * Wait until the Pointer stops to see what you would've won.
 
 What I need to improve on (feedback):
-* TODO
+* Quality of the code is "very good", however, the project itself doesn't show my creativity skills as it's just a basic chest spinner.
